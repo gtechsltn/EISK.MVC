@@ -1,5 +1,6 @@
 # EISK.MVC
-+ EISK is an open source ASP.NET project template that is highly influenced by the concept Pareto Principle or 80-20 rule
++ Employee Info Starter Kit (**EISK**)
++ **EISK** is an open source ASP.NET project template that is highly influenced by the concept Pareto Principle or 80-20 rule
 
 # Languages and Tools
 + C#
